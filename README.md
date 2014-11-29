@@ -3,13 +3,13 @@ Trajectory
 
 These are initiatives that members from the LSH community can lead, contribute to, and organize around. If you want to lead an effort, please prove it through your actions. Because this community is highly experimental, its currently easier to determine dedication to an initiative through extended active participation. Further steps to formalize these stand out leaders will be made accordingly.
 
-##Medium Writer (https://medium.com/ladies-storm-hackathons)
-* We always need people to submit to the medium collection
+## [Medium Writer](https://medium.com/ladies-storm-hackathons)
+* We always need people to submit to the Medium collection
 * How to submit a post: 
-1. **FOLLOW THE COLLECTION**
-2. request to be a writer 
-3. If I like your comment with your handle, it means that I've added you as a writer and you can start submitting posts. 
-4. on the blog post you want to submit, top left hand, down arrow, click "submit to a collection"
+  1. **FOLLOW [THE COLLECTION](https://medium.com/ladies-storm-hackathons)!**
+  2. Request to be a writer 
+  3. If I like your comment with your handle, it means that I've added you as a writer and you can start submitting posts. 
+  4. On the blog post you want to submit, top left hand, down arrow, click "submit to a collection"
 
 ##Meetup Organizer
 * I need someone to help post about meetups going on each week during hackathon season
